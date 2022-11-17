@@ -1,3 +1,17 @@
+# Usage
+
+It's pretty easy, type the keyword `v` into the address bar, hit space, then use one of the keywords below to quickly navigate to a VISFO repo.
+
+| Shorthand | Repo Name |
+|-----------|-----------|
+| `gateway` | `dmt-gateway` |  
+| `insights` | `insights-api` |  
+| `veeva` | `veeva-api` |  
+| `author` | `author-api` |  
+| `curator` | `curator` |  
+| `warehouse` | `warehouse-3` |
+
+
 # Installation
 
 You'll first want to clone this repo to somewhere you don't plan to move it from.
