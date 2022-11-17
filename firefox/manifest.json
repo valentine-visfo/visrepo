@@ -1,0 +1,24 @@
+{
+    "name": "visrepo",
+    "description": "getting to visfo repos...the lazy way",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "icons": {
+        "48": "images/48x48.png"
+    },
+    "omnibox": {
+        "keyword": "v"
+    },
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "permissions": [
+        "activeTab",
+        "tabs"
+    ],
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "fake@faker.fake"
+        }
+    }
+}
